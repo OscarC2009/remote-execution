@@ -1,1 +1,1 @@
-"c:/path/remote_executor.exe"
+"c:/path/remote_executer.exe"
